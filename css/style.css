@@ -38,3 +38,12 @@ h1{
     color: grey;
     font-size: 15px;
 }
+.foto-tim{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+.text-tim{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 15px;
+}

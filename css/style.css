@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700display=swap');
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 header{
     background-image: url('../img/pattern.png');
@@ -9,6 +11,9 @@ header{
     background-size: 20%;
     height: 50px;
     padding: 24px 0;
+}
+main, footer{
+    padding-left: 10px;
 }
 .logo{
     background-image: url('../img/logo.svg');
@@ -64,4 +69,22 @@ th{
 }
 #chiara{
     background-color: aquamarine;
+}
+#final-img1{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-bottom: 20px;
+}
+#final-img2{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    padding-bottom: 20px;
+}
+
+#text-fin{
+    color: whitesmoke;
+    font-size: 25px;
+    padding-left: 5px;
 }

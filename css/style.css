@@ -50,3 +50,18 @@ h1{
 ul{
     padding-left: 17px;
 }
+table{
+    border-spacing: 0;
+}
+thead{
+    background-color: rgb(29, 68, 151);
+}
+th{
+    text-align: left;
+}
+#colonne{
+    width: 200px;
+}
+#chiara{
+    background-color: aquamarine;
+}
